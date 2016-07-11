@@ -1,0 +1,9 @@
+#maDiv {
+	
+	display:block;
+	
+    width: 256px;
+    height: 108px;
+	
+	background-image: url("images/logo-jahia.jpg");
+}
